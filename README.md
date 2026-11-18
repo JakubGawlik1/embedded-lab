@@ -1,2 +1,3 @@
-# embedded-lab
-Embedded Lab
+# Embedded Lab 
+
+Repository where I store my embedded experiments with descriptions
